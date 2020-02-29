@@ -1,0 +1,19 @@
+$background: #2d5d7b;
+$granite: #686868;
+$light-accent: #c2aff0;
+$accent: #9191e9;
+$highlight: #457EAC;
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html {
+  background: $background;
+}
